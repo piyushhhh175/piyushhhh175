@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piyushhhh175
-- 👀 I’m interested in College 
+- 👀 I’m interested in AI & Ml & Cybersecurity
 - 🌱 I’m currently learning Aritificial Intelligence and data science
 - 💞️ I’m looking to collaborate on many projects 
 - 📫 How to reach me ...
